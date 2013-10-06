@@ -1,5 +1,7 @@
 #!/usr/bin/perl -w
 #
+# found here: http://www.derose.net/steve/utilities/SHELLUTILS/makeGraphvizFromDirTree
+#
 # Make a Graphviz dot file for your file system
 #
 # deroses
